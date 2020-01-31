@@ -1,6 +1,6 @@
 <template>
   <div >
-    <home-header></home-header>
+    <!--<home-header></home-header>-->
     <!--<h1>{{ msg }}</h1>-->
   </div>
 </template>
