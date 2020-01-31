@@ -6,7 +6,7 @@
 </template>
 
 <script>
-  import HomeHeader from './components/header.vue'
+  import HomeHeader from './components/HomeHeader.vue'
   export default {
     name: 'HomePage',
     components: {
